@@ -10,3 +10,5 @@ File gender_nocv2.py is code for training the model with data from selebs folder
 File gender_eval1.py is just a code for evalueting the model on some random data from selebs folder with tensorflow preprocesing functions.
 
 When you use trained model, it's better to use the same preprocess method which was used during training.
+
+File add_training.py make additional training of the model
